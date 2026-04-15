@@ -3,8 +3,8 @@
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/christianirshool-glitch/My-projects/blob/main/Proyecto_Flores_de_Iris/Proyecto_Flores_de_Iris.ipynb)
 ![Python](https://img.shields.io/badge/Python-3.8%2B-blue?logo=python&logoColor=white)
 ![Jupyter](https://img.shields.io/badge/Jupyter-Notebook-orange?logo=jupyter&logoColor=white)
-![Scikit-learn](https://img.shields.io/badge/Scikit--learn-ML-red?logo=scikit-learn&logoColor=white)
-![License](https://img.shields.io/badge/Licencia-MIT-green)
+[![Dependencies](https://img.shields.io/badge/dependencies-up--to--date-brightgreen)](requirements.txt)
+[![License](https://img.shields.io/badge/Licencia-MIT-green)](LICENSE)
 
 Proyecto de Machine Learning que combina clasificación supervisada (SVM) y clustering no supervisado (K-Means) para predecir la especie de flores iris. Sirve como análisis comparativo entre ambos paradigmas de aprendizaje automático.
 
