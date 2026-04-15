@@ -126,8 +126,7 @@ Matriz de confusión:
 ## 🚀 Instalación y uso
 
 ### Requisitos previos
-- Python 3.8 o superior
-- `pip`
+* Todas las dependencias están listadas en el archivo [requirements.txt](requirements.txt).
 
 ### Pasos
 
@@ -172,4 +171,4 @@ Data Scientist · MSc in Data Science
 
 ## 📄 Licencia
 
-Este proyecto está bajo la licencia **MIT** — consulta el archivo [LICENSE](../LICENSE) para más detalles.
+Este proyecto está bajo la licencia **MIT** — consulta el archivo [LICENSE](LICENSE) para más detalles.
