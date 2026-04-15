@@ -1,6 +1,6 @@
 # 🌸 Clasificación de Flores Iris — Supervisado vs. No Supervisado
 
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)]([https://colab.research.google.com/github/christianirshool-glitch/flores-classification/blob/main/iris_classification.ipynb](https://colab.research.google.com/github/christianirshool-glitch/My-projects/blob/main/Proyecto_Flores_de_Iris/Proyecto_Flores_de_Iris.ipynb))
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/christianirshool-glitch/My-projects/blob/main/Proyecto_Flores_de_Iris/Proyecto_Flores_de_Iris.ipynb)
 ![Python](https://img.shields.io/badge/Python-3.8%2B-blue?logo=python&logoColor=white)
 ![Jupyter](https://img.shields.io/badge/Jupyter-Notebook-orange?logo=jupyter&logoColor=white)
 ![Scikit-learn](https://img.shields.io/badge/Scikit--learn-ML-red?logo=scikit-learn&logoColor=white)
