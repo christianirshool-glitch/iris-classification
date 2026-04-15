@@ -128,24 +128,23 @@ Matriz de confusión:
 ### Requisitos previos
 * Todas las dependencias están listadas en el archivo [requirements.txt](requirements.txt).
 
-### Pasos
+### Pasos para ejecución local
 
 ```bash
 # 1. Clona el repositorio
-git clone https://github.com/christianirshool-glitch/My-projects.git
+git clone [https://github.com/christianirshool-glitch/My-projects.git](https://github.com/christianirshool-glitch/My-projects.git)
 cd My-projects/Proyecto_Flores_de_Iris
 
-# 2. Crea y activa un entorno virtual (recomendado)
+# 2. Crea y activa un entorno virtual
 python -m venv venv
-source venv/bin/activate       # Linux/macOS
-venv\Scripts\activate          # Windows
+source venv/bin/activate       # En Linux/macOS
+venv\Scripts\activate          # En Windows
 
-# 3. Instala las dependencias
-pip install pandas numpy scikit-learn matplotlib seaborn jupyter
+# 3. Instala las dependencias oficiales
+pip install -r requirements.txt
 
-# 4. Lanza el notebook
-jupyter notebook iris_classification.ipynb
-```
+# 4. Ejecuta el notebook interactivo
+jupyter notebook Proyecto_Flores_de_Iris.ipynb
 
 > El dataset Iris se carga directamente desde `scikit-learn`, por lo que no es necesario descargar ningún archivo adicional.
 
@@ -155,8 +154,10 @@ jupyter notebook iris_classification.ipynb
 
 ```
 Proyecto_Flores_de_Iris/
-├── iris_classification.ipynb    # Notebook principal
-└── README.md
+├── Proyecto_Flores_de_Iris.ipynb  # Código fuente y análisis
+├── requirements.txt               # Lista de dependencias del entorno
+├── LICENSE                        # Documento de licencia MIT
+└── README.md                      # Documentación
 ```
 
 ---
